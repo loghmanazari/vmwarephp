@@ -3,7 +3,7 @@
 	"type":"library",
 	"description":"Vmware vSphere bindings for PHP",
 	"keywords":["vmware", "php", "vsphere", "bindings", "vsphere sdk", "vmware php"],
-	"homepage":"https://github.com/vadimcomanescu/vmwarephp",
+	"homepage":"https://github.com/loghmanazari/vmwarephp",
 	"license":"BSD-3-Clause",
 	"authors":[
 		{
