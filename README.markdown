@@ -25,12 +25,7 @@ Vmwarephp using Composer, first install Composer following the instructions on t
 Packagist home page. After that, you can define a dependency on Vmwarephp by adding
 the following lines to your composer.json:
 
-    {
-        "require": {
-            "vmwarephp/vmwarephp": "dev-master"
-        }
-    }
-    
+    composer require loghmanazari/vmwarephp
 **Using Git / GitHub**
 
 You can clone the latest development branch from its github repository:
